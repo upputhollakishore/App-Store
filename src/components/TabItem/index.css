@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.tabs-list {
+  list-style-type: none;
+  display: flex;
+}
+.tab-heading {
+  padding: 10px;
+  margin-top: 10px;
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+  font-size: 19px;
+  font-weight: bold;
+}
+.active-tab-btn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}

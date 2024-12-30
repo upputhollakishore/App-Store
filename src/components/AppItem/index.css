@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.appitem-container {
+  list-style-type: none;
+  background-color: #ffffff;
+  height: 140px;
+  width: 130px;
+  margin: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app-image {
+  height: 70px;
+  width: 70px;
+}
+.appItem-button {
+  background-color: transparent;
+  border: none;
+}
+.appName {
+  font-size: 14px;
+  color: #1e293b;
+  font-family: 'Bree Serif';
+}
